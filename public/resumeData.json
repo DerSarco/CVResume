@@ -1,0 +1,144 @@
+{
+  "main": {
+    "name": "Carlos Andrés Muñoz Bustamante",
+    "description": "Desarrollador web, experiencia con Javascript, Node.JS, UI5 y ABAP",
+    "image": "profilepic.jpg",
+    "bio": "Soy una persona con 4 años de experiencia, proactivo, me gusta aprender nuevas tecnologias, continuo adquiriendo conocimientos como desarrollador siguiendo cursos, asistiendo a webinars para adquirir mayores entendimientos y habilidades",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "carlos.a.munoz2@outlook.com",
+    "phone": "+569-32555268",
+    "github": "https://github.com/sarcowww",
+    "project": "https://github.com/nordicgiant2/react-nice-resume",
+    "address": {
+      "street": "",
+      "city": "Santiago de Chile",
+      "state": "",
+      "zip": ""
+    },
+    "website": "#",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/carlos-andr%C3%A9s-mu%C3%B1oz-bustamante-sarco/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/i_am_sarco/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sarcowww",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "En las habilidades que me destaco y sigo aprendiendo son las siguientes",
+    "education": [
+      {
+        "school": "Inacap Curicó",
+        "degree": "Analista de Sistemas",
+        "graduated": "Egresado Julio 2015",
+        "description": "Estudié desde 2013 hasta el 2015, una carrera que me enseño base de datos, sistemas operativos, donde indague por primera vez con los lenguajes de programación, JAVA, PHP y C# fueron con los cuales me inicie en el mundo de la informática"
+      },
+    ],
+    "work": [
+      {
+        "company": "Kvalue.",
+        "title": "Consultor SCP Fiori / SCP Cloud Foundry",
+        "years": "2020 a presente",
+        "description": "Me desempeño como consult SCP Neo/Cloud Foundry, desarrollo de aplicaciones web para grandes empresas."
+      },
+      {
+        "company": "Starconsulting SPA.",
+        "title": "Consultor SAP Fiori",
+        "years": "2018 a 2020",
+        "description": "Me desempeñe como consultor Fiori para diversos clientes, ademas adquirí experiencia en ABAP lenguaje de SAP dado que se utiliza para realizar las comunicaciones entre Fiori y SAP"
+      },
+      {
+        "company": "Axity",
+        "title": "Consultor JR.",
+        "years": "2017 a 2018",
+        "description": "Despues de 1 año de formación como consultor, me otorgan cargo de Consultor JR dado los resultados que entregaba a los clientes que confiaban en nuestros servicios"
+      },
+      {
+        "company": "Axity",
+        "title": "Trainee",
+        "years": "2016 a 2017",
+        "description": "Iniciado como trainee, me desempeñe como desarrollador de la nueva tecnologia de SAP, UI5, donde se podia aplicar desarrollo web para mejorar la UI de los usuarios y simplificar las tareas que entrega SAP"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "Typescript",
+        "level": "40%"
+      },
+      {
+        "name": "React",
+        "level": "50%"
+      },
+      {
+        "name": "Redux",
+        "level": "40%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "ABAP",
+        "level": "50%"
+      },
+      {
+        "name": "SCP CF/UI5",
+        "level": "80%"
+      }
+    ]
+  },
+  "certificates": {
+    "courses": [
+      {
+        "title": "ECMAScript 6+, Platzi",
+        "image": "ecmascript6.jpg",
+        "url": "https://platzi.com/p/ElSarco/curso/1815-ecmascript-6/diploma/detalle/"
+      },
+      {
+        "title": "React.js, Platzi",
+        "image": "react.jpg",
+        "url": "https://platzi.com/p/ElSarco/curso/1548-react/diploma/detalle/"
+      },
+      {
+        "title": "Profesional de JavaScript, Platzi",
+        "image": "projavascript.jpg",
+        "url": "https://platzi.com/p/ElSarco/curso/1815-ecmascript-6/diploma/detalle/"
+      },
+      {
+        "title": "Patrones de diseño en Javascript y Node.JS, Udemy",
+        "image": "patrones-diseno.jpg",
+        "url": "http://ude.my/UC-f5caa39e-c542-4c1d-b4b3-ff05f234e176"
+      },
+      {
+        "title": "React, Redux, Typescript, Firebase: Fullstack Serverless, Udemy",
+        "image": "react-redux-ts.jpg",
+        "url": "https://platzi.com/p/ElSarco/curso/1642-javascript-profesional/diploma/detalle/"
+      },
+      {
+        "title": "Gestión de Dependencias y Paquetes con NPM, Platzi",
+        "image": "npm-gestion-dependencia.jpg",
+        "url": "https://platzi.com/p/ElSarco/curso/1763-npm/diploma/detalle/  "
+      },
+      {
+        "title": "Curso Práctico de React JS, Platzi",
+        "image": "react-js-practico.jpg",
+        "url": "https://platzi.com/p/ElSarco/curso/1651-react-ejs/diploma/detalle/"
+      }
+    ]
+  }
+}
