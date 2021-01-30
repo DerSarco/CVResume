@@ -1,4 +1,6 @@
-# React Nice Resume     
+# React Nice Resume 
+
+My CV is currently based on this template, free to use,  please give feedback to @nordicgiant2 for this awesome template.
 
 ### DEMO is [here](https://nordicgiant2.github.io/react-nice-resume-page/index.html)
 
