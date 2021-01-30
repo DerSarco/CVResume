@@ -82,7 +82,11 @@
       },
       {
         "name": "React",
-        "level": "50%"
+        "level": "60%"
+      },
+      {
+        "name": "React Native",
+        "level": "40%"
       },
       {
         "name": "Redux",
